@@ -1,7 +1,7 @@
 # 185. Department Top Three Salaries
 
 **Category:** Pandas / SQL / Data Analysis  
-**Difficulty:** Medium  
+**Difficulty:** Hard  
 
 ---
 
